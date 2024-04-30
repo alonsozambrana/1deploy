@@ -13,4 +13,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: List Directories
-      run: la -la
+      run: ls -la
